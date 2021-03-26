@@ -1,4 +1,4 @@
-# Biomedical-Signals-and-Systems_Electrocardiogram-Signal-Generator
+# Electrocardiogram Signal Generator
 
 Project Description:
 I established a tool to generate synthesized electrocardiogram signals to assist
