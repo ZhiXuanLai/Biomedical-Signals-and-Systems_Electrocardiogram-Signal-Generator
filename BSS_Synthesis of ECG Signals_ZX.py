@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-2018/10/31 HW2
-Fourier Series
+2018/10/31
+Electrocardiogram Signal Generator
 
 """
 
