@@ -1,2 +1,7 @@
-# Biomedical-Signals-and-Systems_HW2_Synthesis-of-ECG-Signal
-Synthesis of ECG Signal Using Fourier Series
+# Biomedical-Signals-and-Systems_Electrocardiogram-Signal-Generator
+
+Project Description:
+I established a tool to generate synthesized electrocardiogram signals to assist
+other researchers in developing analytic tools.
+
+For further detailed information, please check the Demo file.
